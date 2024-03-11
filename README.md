@@ -45,16 +45,5 @@ This project aims to predict the likelihood of diabetes in female individuals of
 - **Diabetes_Prediction.ipynb:** Jupyter Notebook containing the entire project code and analysis.
 - **diabetes.csv:** The dataset used for analysis.
 
-## Requirements
-Ensure you have the following Python packages installed:
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
-```
-
-## Usage
-1. Install Jupyter Notebook.
-2. Clone the repository.
-3. Open the Jupyter Notebook file (`Diabetes_Prediction.ipynb`) and run each cell sequentially.
-
 ## Conclusion
 This project contributes to the understanding of diabetes prediction using machine learning techniques. The results provide insights into influential features and lay the groundwork for further exploration and model refinement.
